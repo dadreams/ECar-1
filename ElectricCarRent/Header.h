@@ -80,8 +80,6 @@
 #define  ServerURL @"http://123.57.227.139:9888/"
 
 
-
-
 //#define  ServerURL @"http://10.220.0.210:8080/"
 //#define  ServerURL @"http://101.201.196.43:9888/"
 //#define  ServerURL @"http://192.168.1.15:8080/"
