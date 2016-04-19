@@ -81,6 +81,7 @@
 
 #define  OSSHostID   @"oss-cn-beijing.aliyuncs.com"
 //#define  OSSHostID   @"oss-cn-beijing.aliyuncs.com"
+//#define  OSSHostID   @"oss-cn-beijing.aliyuncs.com"
 
 #define  ServerURL @"http://123.57.227.139:9888/"
 
